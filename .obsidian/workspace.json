@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "43cb83a4501d7c9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dbb7c379e53c27e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deefe756cf108b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "综合评价方法/总结/期中复习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e176da3b5488c67",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa512f210b20681d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86d61356a5b34b74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95cea30adae05abe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c2106cab87446e5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "996cba2046fbdffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec59e6c5bc47e01e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d275dd1cb95beb8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "综合评价方法/总结/期中复习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb168b00c044b447",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "综合评价方法/总结/期中复习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61570799a0b3e559",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aabb49fab30584c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "综合评价方法/总结/期中复习.md"
+              }
+            }
+          },
+          {
+            "id": "1a3c2c1dbaf5e23c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "deefe756cf108b8a",
+  "lastOpenFiles": [
+    "综合评价方法/评价指标预处理.md",
+    "综合评价方法/总结/期中复习.md",
+    "综合评价方法/综合评价那些不得不说的秘密.md",
+    "综合评价方法/常规综合评价方法.md",
+    "综合评价方法/总结",
+    "综合评价方法/作业",
+    "综合评价方法/灰色关联度.md",
+    "综合评价方法/作业/第二次作业.md",
+    "Excalidraw/classification.excalidraw.md",
+    "综合评价方法/作业/第三次作业.md",
+    "机器学习/Fitting.md",
+    "STATA学习/STATA基础操作.md",
+    "综合评价方法/未命名.canvas",
+    "zob-source/Pasted image 20230424204550.png",
+    "zob-source/Pasted image 20230423210806.png",
+    "机器学习/Classification.md",
+    "综合评价方法",
+    "STATA学习",
+    "Excalidraw/Drawing 2023-04-18 10.05.07_0.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-18 10.04.55.excalidraw.md",
+    "zob-source/精确度与召回率.png",
+    "zob-source/ROC曲线.png",
+    "Excalidraw/Drawing 2023-04-16 13.12.53.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-16 10.43.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-16 12.58.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-16 12.57.56.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-16 12.57.52.excalidraw_0.md",
+    "Excalidraw/Drawing 2023-04-16 12.57.52.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-16 10.45.57.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-16 10.45.32.excalidraw.md",
+    "Excalidraw",
+    "2023-04-16.md",
+    "zob-source",
+    "新建文件夹",
+    "zob-config",
+    "机器学习.md",
+    "机器学习",
+    "未命名.md",
+    "统计建模大赛文献/企业数字转型.md",
+    "统计建模大赛文献"
+  ]
+}

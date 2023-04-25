@@ -1,0 +1,41 @@
+<html>
+<head>
+    <style>
+        svg[id^="mermaid-"] {
+            min-width: 300px;
+            min-height: 300px;
+        }
+
+        .mermaid {
+            width: 300px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="mermaid">
+        graph TD
+        受理登记 --> 指定处理方式
+        指定处理方式-->转交处理
+        指定处理方式-->归档
+        指定处理方式-->完结
+
+        click 完结 href "http://alian.fun" _blank
+    </div>
+    
+    <script src="js/mermaid.min.js"></script>
+    <script>
+        let config = {
+            startOnLoad: true,
+            theme: 'neutral',
+            flowchart: {
+                useMaxWidth: true,
+                htmlLabels: true,
+                curve: 'Basis'
+            },
+            securityLevel: 'loose'
+        }
+        mermaid.initialize(config)
+    </script>
+</body>
+</html>
